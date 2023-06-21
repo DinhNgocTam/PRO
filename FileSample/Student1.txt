@@ -1,0 +1,4 @@
+Nguyen Van An;20,DN;7.0
+Nguyen Van Binh;30,DN;8.0
+Nguyen Van Hanh;40,DN;9.0
+Nguyen Van Phuc;50,DN;6.0
