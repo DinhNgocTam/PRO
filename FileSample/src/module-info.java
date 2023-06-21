@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Hi
- *
- */
-module FileSample {
-}
